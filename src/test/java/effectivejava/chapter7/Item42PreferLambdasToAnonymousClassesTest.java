@@ -7,9 +7,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import static java.util.Comparator.comparingInt;
 import org.junit.Test;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Ignore;
+
 import static org.junit.Assert.assertEquals;
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -48,7 +46,18 @@ public class Item42PreferLambdasToAnonymousClassesTest {
     }
 
     @Test
-    public void testOperation1PLUS() {
-        assertThat(Operation1.PLUS.apply(1.0, 2.0)).isEqualTo(3.0);
+    public void testOperationByOverridingAbastractMethod() {
+        assertThat(OperationByOverridingAbstractMethod.PLUS.apply(1.0, 2.0)).isEqualTo(3.0);
+        assertThat(OperationByOverridingAbstractMethod.MINUS.apply(1.0, 2.0)).isEqualTo(-1.0);
+        assertThat(OperationByOverridingAbstractMethod.TIMES.apply(1.0, 2.0)).isEqualTo(2.0);
+        assertThat(OperationByOverridingAbstractMethod.DIVIDE.apply(1.0, 2.0)).isEqualTo(0.5);
+    }
+
+    @Test
+    public void testOperationByOperator() {
+        assertThat(OperationByOperator.PLUS.apply(1.0, 2.0)).isEqualTo(3.0);
+        assertThat(OperationByOperator.MINUS.apply(1.0, 2.0)).isEqualTo(-1.0);
+        assertThat(OperationByOperator.TIMES.apply(1.0, 2.0)).isEqualTo(2.0);
+        assertThat(OperationByOperator.DIVIDE.apply(1.0, 2.0)).isEqualTo(0.5);
     }
 }

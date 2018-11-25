@@ -1,6 +1,6 @@
 package effectivejava.chapter7;
 
-public enum Operation1 {
+public enum OperationByOverridingAbstractMethod {
     PLUS("+") {
         public double apply(double x, double y) { return  x + y; }
     },
@@ -15,7 +15,7 @@ public enum Operation1 {
     };
 
     private final String symbol;
-    Operation1(String symbol) { this.symbol = symbol; }
+    OperationByOverridingAbstractMethod(String symbol) { this.symbol = symbol; }
     @Override public String toString() { return symbol; }
 
     public abstract double apply(double x, double y);
