@@ -1,12 +1,12 @@
 package effectivejava.chapter7;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
 import org.junit.Test;
-
-import java.util.*;
-
-import static java.util.Comparator.comparingInt;
-import static org.assertj.core.api.Assertions.assertThat;
-
 
 /**
  * Effective Java, Chapter 7 Lambdas and Streams,
