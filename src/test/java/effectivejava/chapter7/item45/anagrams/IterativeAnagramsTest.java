@@ -1,16 +1,17 @@
-package effectivejava.chapter7.item45;
-
-import effectivejava.chapter7.item45.anagrams.IterativeAnagrams;
-import org.junit.Test;
+package effectivejava.chapter7.item45.anagrams;
 
 import java.io.File;
 import java.io.PrintWriter;
 
-public class HybridAnagramsTest {
+import org.junit.Test;
+
+import effectivejava.chapter7.item45.anagrams.IterativeAnagrams;
+
+public class IterativeAnagramsTest {
 
     @Test
     public void testSimple() throws Exception {
-        File tempFile = File.createTempFile("HybridAnagramsTest-", ".tmp");
+        File tempFile = File.createTempFile("IterativeAnagramsTest-", ".tmp");
         tempFile.deleteOnExit();
         PrintWriter pw = new PrintWriter(tempFile);
         pw.println("staple");
