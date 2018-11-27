@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d67999da-c61e-480a-a6d5-63d01c13b4ed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/MersennePrimes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/builder/NutritionFacts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Calzone.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/NyPizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Pizza.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFacts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item1/StaticFactoryMethodTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/builder/NutritionFactsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/PizzaTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFactsTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/HybridAnagramsTest.java" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/HybridAnagramsTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/IterativeAnagramsTest.java" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/IterativeAnagramsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -25,123 +30,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Item42PreferLambdasToAnonymousClassesTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
+      <file leaf-file-name="PizzaTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/PizzaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1029">
-              <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <marker date="1543239747447" expanded="true" signature="615:968" ph="{...}" />
-                <marker date="1543239747447" expanded="true" signature="728:874" ph="{...}" />
-                <marker date="1543239747447" expanded="true" signature="1021:1276" ph="{...}" />
-                <marker date="1543239747447" expanded="true" signature="1339:1563" ph="{...}" />
-                <marker date="1543239747447" expanded="true" signature="1634:2018" ph="{...}" />
-                <marker date="1543239747447" expanded="true" signature="2072:2392" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2037">
-                <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Item43PreferMethodReferencesToLambdasTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item43PreferMethodReferencesToLambdasTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IterativeAnagramsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/IterativeAnagramsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="64" />
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MersennePrimesTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TEST-effectivejava.chapter7.item45.IterativeAnagramsTest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/test-results/test/TEST-effectivejava.chapter7.item45.IterativeAnagramsTest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HybridAnagrams.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/HybridAnagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MersennePrimes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/MersennePrimes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="109" lean-forward="false" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HybridAnagramsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/HybridAnagramsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IterativeAnagrams.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/IterativeAnagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -548,6 +444,19 @@
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/MersennePrimes.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/IterativeAnagramsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter1/item1/StaticFactoryMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFacts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter1/item2/NutritionFactsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter1/item1/telescopingconstructor/StaticFactoryMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter1/item2/telescopingcontructor/NutritionFactsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFactsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/builder/NutritionFacts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/builder/NutritionFactsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/NyPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Calzone.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/NyPizzaTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/PizzaTest.java" />
       </list>
     </option>
   </component>
@@ -557,10 +466,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="height" value="438" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -593,7 +502,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -643,7 +552,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -651,8 +560,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-              <item name="item45" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -660,9 +569,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-              <item name="item45" type="462c0819:PsiDirectoryNode" />
-              <item name="anagrams" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
+              <item name="hierarchicalbuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
+              <item name="telescopingconstructor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -683,7 +612,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -691,8 +620,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-              <item name="item45" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -700,17 +629,69 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="item1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
+              <item name="hierarchicalbuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+              <item name="item2" type="462c0819:PsiDirectoryNode" />
+              <item name="telescopingconstructor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
               <item name="chapter7" type="462c0819:PsiDirectoryNode" />
-              <item name="item45" type="462c0819:PsiDirectoryNode" />
-              <item name="anagrams" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -724,6 +705,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="effectivejava.chapter1.item1" />
       <recent name="effectivejava.chapter7.item45" />
       <recent name="effectivejava.chapter7.item45.anagrams" />
       <recent name="effectivejava.chapter7" />
@@ -745,7 +727,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MersennePrimesTest">
+  <component name="RunManager" selected="JUnit.PizzaTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -802,11 +784,11 @@
       </ExternalSystemSettings>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
     </configuration>
-    <configuration name="HybridAnagramsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NutritionFactsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter7.item45.**" />
+            <option name="PATTERN" value="effectivejava.chapter2.item2.telescopingconstructor.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -814,15 +796,15 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter7.item45.*" />
+          <option name="PATTERN" value="effectivejava.chapter2.item2.telescopingconstructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter7.item45.anagrams" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter7.item45.anagrams.HybridAnagramsTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter2.item2.telescopingconstructor" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter2.item2.telescopingconstructor.NutritionFactsTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -836,11 +818,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="IterativeAnagramsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PizzaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter7.item45.**" />
+            <option name="PATTERN" value="effectivejava.chapter2.item2.hierarchicalbuilder.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -848,15 +830,15 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter7.item45.*" />
+          <option name="PATTERN" value="effectivejava.chapter2.item2.hierarchicalbuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter7.item45.anagrams" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter7.item45.anagrams.IterativeAnagramsTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter2.item2.hierarchicalbuilder" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter2.item2.hierarchicalbuilder.PizzaTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -870,11 +852,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MersennePrimesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PizzaTest.testNyPizzaBuilder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter7.item45.**" />
+            <option name="PATTERN" value="effectivejava.chapter2.item2.hierarchicalbuilder.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -882,17 +864,85 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter7.item45.*" />
+          <option name="PATTERN" value="effectivejava.chapter2.item2.hierarchicalbuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter7.item45" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter7.item45.MersennePrimesTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter2.item2.hierarchicalbuilder" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter2.item2.hierarchicalbuilder.PizzaTest" />
+      <option name="METHOD_NAME" value="testNyPizzaBuilder" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StaticFactoryMethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter1.item1.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter2.item1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="effectivejava_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter2.item1" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter2.item1.StaticFactoryMethodTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StaticFactoryMethodTest.testBooleanValueOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter1.item1.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter2.item1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="effectivejava_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter2.item1" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter2.item1.StaticFactoryMethodTest" />
+      <option name="METHOD_NAME" value="testBooleanValueOf" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -964,18 +1014,22 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Gradle.effectivejava test" />
       <item index="1" class="java.lang.String" itemvalue="Gradle.effectivejava build" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.IterativeAnagramsTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.HybridAnagramsTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MersennePrimesTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.StaticFactoryMethodTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StaticFactoryMethodTest.testBooleanValueOf" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NutritionFactsTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.PizzaTest" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.PizzaTest.testNyPizzaBuilder" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MersennePrimesTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HybridAnagramsTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.IterativeAnagramsTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PizzaTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PizzaTest.testNyPizzaBuilder" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.NutritionFactsTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.StaticFactoryMethodTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StaticFactoryMethodTest.testBooleanValueOf" />
       </list>
     </recent_temporary>
   </component>
@@ -998,7 +1052,9 @@
       <workItem from="1542959234772" duration="1595000" />
       <workItem from="1542963429734" duration="389000" />
       <workItem from="1543102712013" duration="2784000" />
-      <workItem from="1543239721962" duration="2369000" />
+      <workItem from="1543239721962" duration="2627000" />
+      <workItem from="1543345464410" duration="9744000" />
+      <workItem from="1543358783810" duration="973000" />
     </task>
     <task id="LOCAL-00001" summary="Item42: add Operation1">
       <created>1543104147753</created>
@@ -1014,21 +1070,28 @@
       <option name="project" value="LOCAL" />
       <updated>1543240613684</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Item47 add HybridAnagrams and its test">
+      <created>1543242165417</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543242165417</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HybridAnagramsTest - 2018.11.26 at 22h 54m 58s.xml">
-      <configuration name="HybridAnagramsTest" configurationId="JUnit" />
+    <history-entry file="PizzaTest - 2018.11.28 at 08h 46m 58s.xml">
+      <configuration name="PizzaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterativeAnagramsTest - 2018.11.26 at 22h 43m 18s.xml">
-      <configuration name="IterativeAnagramsTest" configurationId="JUnit" />
+    <history-entry file="PizzaTest - 2018.11.28 at 08h 49m 57s.xml">
+      <configuration name="PizzaTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MersennePrimesTest - 2018.11.26 at 23h 19m 01s.xml">
-      <configuration name="MersennePrimesTest" configurationId="JUnit" />
+    <history-entry file="PizzaTest_testNyPizzaBuilder - 2018.11.28 at 08h 49m 26s.xml">
+      <configuration name="PizzaTest.testNyPizzaBuilder" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="effectivejava_test - 2018.11.25 at 08h 56m 53s.xml">
-      <configuration name="effectivejava test" configurationId="GradleRunConfiguration" />
+    <history-entry file="StaticFactoryMethodTest_testBooleanValueOf - 2018.11.28 at 04h 43m 57s.xml">
+      <configuration name="StaticFactoryMethodTest.testBooleanValueOf" configurationId="JUnit" />
     </history-entry>
     <history-entry file="effectivejava_test - 2018.11.25 at 08h 58m 59s.xml">
       <configuration name="effectivejava test" configurationId="GradleRunConfiguration" />
@@ -1050,7 +1113,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8459000" />
+    <option name="totallyTimeSpent" value="19434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -1064,12 +1127,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.64194375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66751915" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27110156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27825466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1104,21 +1167,147 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#703#704#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/NyPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Calzone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#393#394#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item1/StaticFactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/PizzaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2037">
+            <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/IterativeAnagramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/test-results/test/TEST-effectivejava.chapter7.item45.IterativeAnagramsTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/HybridAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/MersennePrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="109" lean-forward="false" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/HybridAnagramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/IterativeAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1029">
           <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <marker date="1543239747447" expanded="true" signature="615:968" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="728:874" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1021:1276" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1339:1563" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1634:2018" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="2072:2392" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1146,8 +1335,8 @@
         <state relative-caret-position="336">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#607#608#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1156,7 +1345,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,17 +1352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <marker date="1543239747447" expanded="true" signature="615:968" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="728:874" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1021:1276" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1339:1563" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1634:2018" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="2072:2392" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1182,17 +1359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <marker date="1543239747447" expanded="true" signature="615:968" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="728:874" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1021:1276" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1339:1563" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1634:2018" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="2072:2392" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1200,17 +1366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <marker date="1543239747447" expanded="true" signature="615:968" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="728:874" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1021:1276" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1339:1563" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1634:2018" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="2072:2392" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1241,7 +1396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="47" lean-forward="false" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1265,26 +1419,8 @@
         <state relative-caret-position="336">
           <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <marker date="1543239747447" expanded="true" signature="615:968" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="728:874" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1021:1276" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1339:1563" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="1634:2018" ph="{...}" />
-            <marker date="1543239747447" expanded="true" signature="2072:2392" ph="{...}" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#607#608#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1300,11 +1436,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item43PreferMethodReferencesToLambdasTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/IterativeAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="672">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/HybridAnagramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/HybridAnagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/IterativeAnagramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/MersennePrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="109" lean-forward="false" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1316,59 +1484,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/IterativeAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/HybridAnagramsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/HybridAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/anagrams/IterativeAnagramsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/MersennePrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="109" lean-forward="false" selection-start-line="10" selection-start-column="109" selection-end-line="10" selection-end-column="109" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="10" column="61" lean-forward="false" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        <state relative-caret-position="231">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item44FavorTheUseOfStandardFunctionalInterfaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item43PreferMethodReferencesToLambdasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item1/StaticFactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="48" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/builder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="e#348#349#0" expanded="false" />
+            <element signature="e#393#394#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/builder/NutritionFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="54" column="45" lean-forward="false" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+          <folding>
+            <element signature="e#1231#1232#0" expanded="false" />
+            <element signature="e#1286#1287#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFactsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#703#704#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/NyPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/builder/NutritionFactsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Calzone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/PizzaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
