@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d67999da-c61e-480a-a6d5-63d01c13b4ed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item6/RomanNumerals.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item9/trywithresources/Copy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/CaseInsensitiveString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/Color.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/Point.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/autovalue/Animal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/composition/ColorPoint.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item6/RomanNumeralsTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item9/trywithresources/CopyTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/CaseInsensitiveStringTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/autovalue/AnimalTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/composition/ColorPointTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/effectivejava_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/effectivejava_main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item11/PhoneNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item12/PhoneNumber.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item17/Complex.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item11/PhoneNumberTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item12/PhoneNumberTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item17/ComplexTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/ForwardingSet.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/InstrumentedSet.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/effectivejava.iml" afterPath="$PROJECT_DIR$/effectivejava.iml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -59,85 +49,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ColorPoint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/composition/ColorPoint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#885#886#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ColorPointTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/composition/ColorPointTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/autovalue/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnimalTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/autovalue/AnimalTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaseInsensitiveStringTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/CaseInsensitiveStringTest.java">
+      <file leaf-file-name="InstrumentedSet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/InstrumentedSet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="57" />
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutoValue_Animal.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/generated/effectivejava/chapter3/item10/autovalue/AutoValue_Animal.java">
+      <file leaf-file-name="ForwardingSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/ForwardingSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-234">
-              <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="638">
+              <caret line="32" column="62" lean-forward="false" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -620,6 +551,15 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/generated/effectivejava/chapter3/item10/autovalue/AutoValue_Animal.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/autovalue/AnimalTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item11/PhoneNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item11/PhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item12/PhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item12/PhoneNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item17/ComplexTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item17/Complex.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/Forwardingset.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/ForwardingSet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/InstrumentedSet.java" />
       </list>
     </option>
   </component>
@@ -629,7 +569,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="438" />
@@ -667,6 +607,7 @@
     <panes>
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -696,15 +637,15 @@
               <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
               <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="generated" type="462c0819:PsiDirectoryNode" />
-              <item name="autovalue" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -734,7 +675,7 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="item10" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -743,8 +684,27 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="item10" type="462c0819:PsiDirectoryNode" />
-              <item name="autovalue" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="item12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="item18" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -754,7 +714,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -790,7 +749,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AnimalTest">
+  <component name="RunManager" selected="JUnit.ComplexTest.testMinus">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -847,11 +806,11 @@
       </ExternalSystemSettings>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
     </configuration>
-    <configuration name="AnimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComplexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter3.item10.autovalue.**" />
+            <option name="PATTERN" value="effectivejava.chapter4.item17.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -859,15 +818,15 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter3.item10.autovalue.*" />
+          <option name="PATTERN" value="effectivejava.chapter4.item17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter3.item10.autovalue" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter3.item10.autovalue.AnimalTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter4.item17" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter4.item17.ComplexTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -881,11 +840,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CaseInsensitiveStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ComplexTest.testMinus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter3.item10.**" />
+            <option name="PATTERN" value="effectivejava.chapter4.item17.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -893,15 +852,83 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter3.item10.*" />
+          <option name="PATTERN" value="effectivejava.chapter4.item17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter3.item10" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter3.item10.CaseInsensitiveStringTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter4.item17" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter4.item17.ComplexTest" />
+      <option name="METHOD_NAME" value="testMinus" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ComplexTest.testPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter4.item17.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter4.item17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="effectivejava_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter4.item17" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter4.item17.ComplexTest" />
+      <option name="METHOD_NAME" value="testPlus" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PhoneNumberTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter3.item12.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter3.item12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="effectivejava_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter3.item12" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter3.item12.PhoneNumberTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -915,11 +942,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="CaseInsensitiveStringTest.testSymmetricalEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter3.item10.**" />
+            <option name="PATTERN" value="effectivejava.chapter3.item11.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -927,83 +954,15 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter3.item10.*" />
+          <option name="PATTERN" value="effectivejava.chapter3.item11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter3.item10" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter3.item10.CaseInsensitiveStringTest" />
-      <option name="METHOD_NAME" value="testSymmetricalEquals" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ColorPointTest.testSymmetricEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="chronon">
-        <include>
-          <pattern>
-            <option name="PATTERN" value="effectivejava.chapter3.item10.composition.**" />
-            <option name="ENABLED" value="true" />
-            <option name="INCLUDE" value="true" />
-          </pattern>
-        </include>
-      </extension>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.chapter3.item10.composition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="effectivejava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter3.item10.composition" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter3.item10.composition.ColorPointTest" />
-      <option name="METHOD_NAME" value="testSymmetricEquals" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="CopyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="chronon">
-        <include>
-          <pattern>
-            <option name="PATTERN" value="effectivejava.chapter2.item9.trywithresources.**" />
-            <option name="ENABLED" value="true" />
-            <option name="INCLUDE" value="true" />
-          </pattern>
-        </include>
-      </extension>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.chapter2.item9.trywithresources.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="effectivejava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter2.item9.trywithresources" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter2.item9.trywithresources.CopyTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter3.item11" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter3.item11.PhoneNumberTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -1080,19 +1039,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Gradle.effectivejava test" />
       <item index="1" class="java.lang.String" itemvalue="Gradle.effectivejava build" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CopyTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CaseInsensitiveStringTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CaseInsensitiveStringTest.testSymmetricalEquals" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.ColorPointTest.testSymmetricEquals" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.AnimalTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PhoneNumberTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneNumberTest (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ComplexTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.ComplexTest.testPlus" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.ComplexTest.testMinus" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.AnimalTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ColorPointTest.testSymmetricEquals" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CaseInsensitiveStringTest.testSymmetricalEquals" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CaseInsensitiveStringTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CopyTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ComplexTest.testMinus" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ComplexTest.testPlus" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ComplexTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PhoneNumberTest (1)" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PhoneNumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1125,7 +1084,9 @@
       <workItem from="1543551218618" duration="1330000" />
       <workItem from="1543553090537" duration="177000" />
       <workItem from="1543553277849" duration="312000" />
-      <workItem from="1543554879333" duration="2428000" />
+      <workItem from="1543554879333" duration="6000000" />
+      <workItem from="1543568740476" duration="1021000" />
+      <workItem from="1543576687879" duration="4256000" />
     </task>
     <task id="LOCAL-00001" summary="Item42: add Operation1">
       <created>1543104147753</created>
@@ -1155,30 +1116,37 @@
       <option name="project" value="LOCAL" />
       <updated>1543362768334</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add Chapter2/item10; add example code for Google AutoValue">
+      <created>1543559439623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543559439623</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnimalTest - 2018.11.30 at 14h 53m 54s.xml">
-      <configuration name="AnimalTest" configurationId="JUnit" />
+    <history-entry file="ComplexTest - 2018.11.30 at 20h 34m 49s.xml">
+      <configuration name="ComplexTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnimalTest - 2018.11.30 at 14h 54m 27s.xml">
-      <configuration name="AnimalTest" configurationId="JUnit" />
+    <history-entry file="ComplexTest - 2018.11.30 at 20h 35m 39s.xml">
+      <configuration name="ComplexTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnimalTest - 2018.11.30 at 14h 57m 41s.xml">
-      <configuration name="AnimalTest" configurationId="JUnit" />
+    <history-entry file="ComplexTest - 2018.11.30 at 20h 36m 01s.xml">
+      <configuration name="ComplexTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralsTest_testIsRomanNumeral - 2018.11.29 at 10h 23m 24s.xml">
-      <configuration name="RomanNumeralsTest.testIsRomanNumeral" configurationId="JUnit" />
+    <history-entry file="ComplexTest_testMinus - 2018.11.30 at 20h 38m 51s.xml">
+      <configuration name="ComplexTest.testMinus" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralsTest_testIsRomanNumeral - 2018.11.29 at 10h 24m 00s.xml">
-      <configuration name="RomanNumeralsTest.testIsRomanNumeral" configurationId="JUnit" />
+    <history-entry file="ComplexTest_testPlus - 2018.11.30 at 20h 37m 32s.xml">
+      <configuration name="ComplexTest.testPlus" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralsTest_testIsRomanNumeralFast - 2018.11.29 at 10h 31m 58s.xml">
-      <configuration name="RomanNumeralsTest.testIsRomanNumeralFast" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTest_(1) - 2018.11.30 at 16h 30m 07s.xml">
+      <configuration name="PhoneNumberTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralsTest_testIsRomanNumeralSlow - 2018.11.29 at 10h 31m 27s.xml">
-      <configuration name="RomanNumeralsTest.testIsRomanNumeralSlow" configurationId="JUnit" />
+    <history-entry file="PhoneNumberTest_(1) - 2018.11.30 at 16h 30m 39s.xml">
+      <configuration name="PhoneNumberTest (1)" configurationId="JUnit" />
     </history-entry>
     <history-entry file="effectivejava_test - 2018.11.29 at 10h 34m 15s.xml">
       <configuration name="effectivejava test" configurationId="GradleRunConfiguration" />
@@ -1191,10 +1159,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33665000" />
+    <option name="totallyTimeSpent" value="42514000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="438" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1205,13 +1173,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30179027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13938619" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3104435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3190272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1219,12 +1186,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1239,72 +1207,26 @@
     <MESSAGE value="Item42: add Operation1" />
     <MESSAGE value="Item47 add HybridAnagrams and its test" />
     <MESSAGE value="add Chapter2/Item2 Builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Chapter2/Item2 Builder" />
+    <MESSAGE value="add Chapter2/item10, AutoValue" />
+    <MESSAGE value="add Chapter2/item10; add example code for Google AutoValue" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Chapter2/item10; add example code for Google AutoValue" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item17/Complex.java</url>
+          <line>11</line>
+          <properties class="effectivejava.chapter4.item17.Complex" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/item45/anagrams/IterativeAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2037">
-            <caret line="97" column="7" lean-forward="false" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/test-results/test/TEST-effectivejava.chapter7.Item42PreferLambdasToAnonymousClassesTest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter7/OperationByOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item43PreferMethodReferencesToLambdasTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item42PreferLambdasToAnonymousClassesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1550,15 +1472,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/composition/ColorPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
+        <state relative-caret-position="0">
           <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1566,9 +1481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1580,22 +1492,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/CaseInsensitiveStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/autovalue/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1603,7 +1503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-234">
           <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1611,9 +1510,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/CaseInsensitiveStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item11/PhoneNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item12/PhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="41" column="74" lean-forward="false" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item11/PhoneNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="58" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item12/PhoneNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item17/ComplexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/ForwardingSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="32" column="62" lean-forward="false" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item17/Complex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1603#1604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/InstrumentedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
