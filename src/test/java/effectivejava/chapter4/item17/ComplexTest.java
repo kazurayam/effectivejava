@@ -8,18 +8,18 @@ public class ComplexTest {
 
     @Test
     public void testToString() {
-        assertThat(new Complex(1,2).toString()).isEqualTo("(1.0 + 2.0i)");
+        assertThat(Complex.valueOf(1,2).toString()).isEqualTo("(1.0 + 2.0i)");
     }
 
     @Test
     public void testPlus() {
-        Complex r = new Complex(1, 2).plus(new Complex(3,4));
-        assertThat(r).isEqualTo(new Complex(4, 6));
+        Complex r = Complex.valueOf(1, 2).plus(Complex.valueOf(3,4));
+        assertThat(r).isEqualTo(Complex.valueOf(4, 6));
     }
 
     @Test
     public void testMinus() {
-        Complex r = new Complex(1,2).minus(new Complex(3,4));
-        assertThat(r).isEqualTo(new Complex(-2, -2));
+        Complex r = Complex.valueOf(1,2).minus(Complex.valueOf(3,4));
+        assertThat(r).isEqualTo(Complex.valueOf(-2, -2));
     }
 }
