@@ -2,23 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d67999da-c61e-480a-a6d5-63d01c13b4ed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item18/InstrumentedSet.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item20/IntArrays.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item23/hierarchy/Circle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item23/hierarchy/Figure.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item23/hierarchy/Rectangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item23/hierarchy/Square.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item29/EmptyStackException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item29/technique1/Stack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item29/technique2/Stack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item30/Union.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/InstrumentedSetTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item29/technique2/StackTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item33/Favorites.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item34/Operation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item35/Ensemble.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item36/Text.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Plant.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/BasicOperation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/ExtendedOperation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/Operation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/ExceptionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item33/FavoritesTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item34/OperationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item38/ExtendedOperationTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item17/ComplexTest.java" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item17/ComplexTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/ForwardingSet.java" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter4/item18/ForwardingSet.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter4/item18/InstrumentedSet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,37 +61,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Union.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item30/Union.java">
+      <file leaf-file-name="ExceptionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/ExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnionTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item29/technique2/StackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="21" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunExceptionTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bigram.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sample2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -529,26 +544,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter1/item1/telescopingconstructor/StaticFactoryMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter1/item2/telescopingcontructor/NutritionFactsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/telescopingconstructor/NutritionFactsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/builder/NutritionFacts.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/builder/NutritionFactsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/NyPizza.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item2/hierarchicalbuilder/Calzone.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/NyPizzaTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item2/hierarchicalbuilder/PizzaTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item1/StaticFactoryMethodTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item6/RomanNumerals.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item6/RomanNumeralsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/Item43PreferMethodReferencesToLambdasTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/item45/MersennePrimesTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter2/item9/trywithresources/Copy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/CaseInsensitiveString.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter2/item9/trywithresources/CopyTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/CaseInsensitiveStringTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/Color.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/composition/ColorPoint.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/Point.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/composition/ColorPointTest.java" />
@@ -579,7 +574,27 @@
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter7/StackTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item29/technique2/StackTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/Union.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item35/Ensemble.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item36/Text.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Plant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/BasicOperation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item34/OperationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/ExtendedOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/Operation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item33/Favorites.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item33/FavoritesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item34/Operation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item38/OperationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item38/ExtendedOperationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java" />
       </list>
     </option>
   </component>
@@ -592,7 +607,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="438" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -628,6 +643,7 @@
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -673,7 +689,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -682,8 +698,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-              <item name="item30" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="item40" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -713,26 +729,7 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
-              <item name="technique2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter7" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -742,7 +739,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -762,6 +758,7 @@
       <recent name="effectivejava.chapter7" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="effectivejava.chapter6.item39" />
       <recent name="effectivejava.chapter7.item45" />
       <recent name="effectivejava.chapter7" />
     </key>
@@ -778,12 +775,96 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StackTest.testSmoke">
+  <component name="RunManager" selected="Application.Bigram">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Bigram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter6.item40.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter6.item40.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item40.Bigram" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="effectivejava_main" />
+      <envs />
+    </configuration>
+    <configuration name="RunExceptionTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter6.item39.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter6.item39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item39.RunExceptionTests" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="effectivejava_main" />
+      <envs />
+    </configuration>
+    <configuration name="RunTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter6.item39.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter6.item39.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item39.RunTests" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="effectivejava_main" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -835,11 +916,11 @@
       </ExternalSystemSettings>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
     </configuration>
-    <configuration name="ComplexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtendedOperationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter4.item17.**" />
+            <option name="PATTERN" value="effectivejava.chapter6.item38.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -847,15 +928,15 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter4.item17.*" />
+          <option name="PATTERN" value="effectivejava.chapter6.item38.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter4.item17" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter4.item17.ComplexTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter6.item38" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item38.ExtendedOperationTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -869,11 +950,11 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ComplexTest.testMinus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OperationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter4.item17.**" />
+            <option name="PATTERN" value="effectivejava.chapter6.item34.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -881,119 +962,17 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter4.item17.*" />
+          <option name="PATTERN" value="effectivejava.chapter6.item34.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="effectivejava_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter4.item17" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter4.item17.ComplexTest" />
-      <option name="METHOD_NAME" value="testMinus" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="ComplexTest.testPlus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="chronon">
-        <include>
-          <pattern>
-            <option name="PATTERN" value="effectivejava.chapter4.item17.**" />
-            <option name="ENABLED" value="true" />
-            <option name="INCLUDE" value="true" />
-          </pattern>
-        </include>
-      </extension>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.chapter4.item17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="effectivejava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter4.item17" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter4.item17.ComplexTest" />
-      <option name="METHOD_NAME" value="testPlus" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="InstrumentedSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="chronon">
-        <include>
-          <pattern>
-            <option name="PATTERN" value="effectivejava.chapter4.item18.**" />
-            <option name="ENABLED" value="true" />
-            <option name="INCLUDE" value="true" />
-          </pattern>
-        </include>
-      </extension>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.chapter4.item18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="effectivejava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter4.item18" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter4.item18.InstrumentedSetTest" />
+      <option name="PACKAGE_NAME" value="effectivejava.chapter6.item34" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item34.OperationTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="StackTest.testSmoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="chronon">
-        <include>
-          <pattern>
-            <option name="PATTERN" value="effectivejava.chapter5.item29.technique2.**" />
-            <option name="ENABLED" value="true" />
-            <option name="INCLUDE" value="true" />
-          </pattern>
-        </include>
-      </extension>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.chapter5.item29.technique2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="effectivejava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter5.item29.technique2" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter5.item29.technique2.StackTest" />
-      <option name="METHOD_NAME" value="testSmoke" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1068,19 +1047,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Gradle.effectivejava test" />
       <item index="1" class="java.lang.String" itemvalue="Gradle.effectivejava build" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ComplexTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ComplexTest.testPlus" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.ComplexTest.testMinus" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.InstrumentedSetTest" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.StackTest.testSmoke" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.OperationTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ExtendedOperationTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RunTests" />
+      <item index="5" class="java.lang.String" itemvalue="Application.RunExceptionTests" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Bigram" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.StackTest.testSmoke" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.InstrumentedSetTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ComplexTest.testMinus" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ComplexTest.testPlus" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ComplexTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Bigram" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RunExceptionTests" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RunTests" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ExtendedOperationTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.OperationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1120,7 +1099,10 @@
       <workItem from="1543640556214" duration="1493000" />
       <workItem from="1543665662244" duration="1075000" />
       <workItem from="1543730854387" duration="4486000" />
-      <workItem from="1543739648250" duration="142000" />
+      <workItem from="1543739648250" duration="285000" />
+      <workItem from="1543959443665" duration="626000" />
+      <workItem from="1544841420728" duration="2159000" />
+      <workItem from="1544861860857" duration="8969000" />
     </task>
     <task id="LOCAL-00001" summary="Item42: add Operation1">
       <created>1543104147753</created>
@@ -1164,24 +1146,31 @@
       <option name="project" value="LOCAL" />
       <updated>1543581474525</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="various updates">
+      <created>1543739823626</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543739823626</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ComplexTest - 2018.11.30 at 20h 36m 01s.xml">
-      <configuration name="ComplexTest" configurationId="JUnit" />
+    <history-entry file="ExtendedOperationTest - 2018.12.15 at 17h 46m 06s.xml">
+      <configuration name="ExtendedOperationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ComplexTest_testMinus - 2018.11.30 at 20h 38m 51s.xml">
-      <configuration name="ComplexTest.testMinus" configurationId="JUnit" />
+    <history-entry file="ExtendedOperationTest - 2018.12.15 at 18h 01m 34s.xml">
+      <configuration name="ExtendedOperationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ComplexTest_testPlus - 2018.11.30 at 20h 37m 32s.xml">
-      <configuration name="ComplexTest.testPlus" configurationId="JUnit" />
+    <history-entry file="ExtendedOperationTest - 2018.12.15 at 18h 08m 52s.xml">
+      <configuration name="ExtendedOperationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="InstrumentedSetTest - 2018.12.01 at 14h 19m 07s.xml">
-      <configuration name="InstrumentedSetTest" configurationId="JUnit" />
+    <history-entry file="OperationTest - 2018.12.15 at 17h 41m 35s.xml">
+      <configuration name="OperationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneNumberTest_(1) - 2018.11.30 at 16h 30m 07s.xml">
-      <configuration name="PhoneNumberTest (1)" configurationId="JUnit" />
+    <history-entry file="OperationTest - 2018.12.15 at 17h 42m 49s.xml">
+      <configuration name="OperationTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PhoneNumberTest_(1) - 2018.11.30 at 16h 30m 39s.xml">
       <configuration name="PhoneNumberTest (1)" configurationId="JUnit" />
@@ -1200,24 +1189,25 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49867000" />
+    <option name="totallyTimeSpent" value="61764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="438" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34526855" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3005115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3005115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34120172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36123034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1225,14 +1215,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286445" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1249,7 +1238,8 @@
     <MESSAGE value="add Chapter2/Item2 Builder" />
     <MESSAGE value="add Chapter2/item10, AutoValue" />
     <MESSAGE value="add Chapter2/item10; add example code for Google AutoValue" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Chapter2/item10; add example code for Google AutoValue" />
+    <MESSAGE value="various updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="various updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1267,13 +1257,71 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item33/Favorites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item33/FavoritesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="16" column="91" lean-forward="false" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item33/Favorites.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item33/FavoritesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="16" column="91" lean-forward="false" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item30/Union.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item29/technique2/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item30/Union.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1281,7 +1329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="21" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,10 +1336,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1373,9 +1416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1383,17 +1423,215 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="21" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item36/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#295#296#0" expanded="false" />
+            <element signature="e#357#358#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Plant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#327#328#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/BasicOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#518#519#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+            <element signature="e#595#596#0" expanded="false" />
+            <element signature="e#624#625#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/ExtendedOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#355#356#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+            <element signature="e#432#433#0" expanded="false" />
+            <element signature="e#461#462#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item35/Ensemble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#285#286#0" expanded="false" />
+            <element signature="e#325#326#0" expanded="false" />
+            <element signature="e#363#364#0" expanded="false" />
+            <element signature="e#403#404#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item33/FavoritesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item33/Favorites.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item34/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#487#488#0" expanded="false" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#564#565#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item34/OperationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item38/ExtendedOperationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/ExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
           </folding>
         </state>
       </provider>

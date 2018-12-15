@@ -9,7 +9,7 @@ public class UnionTest {
 
     @Test
     public void testSmoke() {
-        Set<String> guyes = Set.of ("Tom", "Dick", "Harry");
+        //Set<String> guyes = Set.of ("Tom", "Dick", "Harry");
     }
 
 }
