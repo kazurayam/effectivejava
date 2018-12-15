@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d67999da-c61e-480a-a6d5-63d01c13b4ed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item33/Favorites.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item34/Operation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item35/Ensemble.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item36/Text.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item37/Plant.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/BasicOperation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/ExtendedOperation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item38/Operation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/ExceptionTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item33/FavoritesTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item34/OperationTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter6/item38/ExtendedOperationTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item50/Period.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/CollectionClassifier.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/Overriding.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/SetList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item53/Varargs.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item54/Max.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item56/DocExamples.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java" afterPath="$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item30/UnionTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -61,47 +48,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExceptionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/ExceptionTest.java">
+      <file leaf-file-name="Period.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item50/Period.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunExceptionTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bigram.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="147">
+              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sample2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample2.java">
+      <file leaf-file-name="CollectionClassifier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/CollectionClassifier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="333">
+              <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Overriding.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/Overriding.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/SetList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Varargs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item53/Varargs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Max.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item54/Max.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocExamples.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item56/DocExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-915">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#1276#1277#0" expanded="true" />
+                <element signature="e#1304#1305#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -544,14 +574,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/composition/ColorPoint.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/Point.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/composition/ColorPointTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item10/autovalue/Animal.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/generated/effectivejava/chapter3/item10/autovalue/AutoValue_Animal.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item10/autovalue/AnimalTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item11/PhoneNumberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item11/PhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter3/item12/PhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/effectivejava/chapter3/item12/PhoneNumberTest.java" />
@@ -595,6 +617,14 @@
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/Sample2.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/Period.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item50/Period.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/CollectionClassifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/Overriding.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/SetList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item53/Varargs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item54/Max.java" />
+        <option value="$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item56/DocExample.java" />
       </list>
     </option>
   </component>
@@ -604,10 +634,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="height" value="438" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -640,10 +670,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -689,7 +717,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -698,8 +726,38 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="item40" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="item52" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="item53" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="item54" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter8" type="462c0819:PsiDirectoryNode" />
+              <item name="item56" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -721,15 +779,6 @@
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effectivejava" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effectivejava" type="b2602c69:ProjectViewProjectNode" />
@@ -739,6 +788,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -775,18 +826,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bigram">
+  <component name="RunManager" selected="Application.Max">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Bigram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter6.item40.**" />
+            <option name="PATTERN" value="effectivejava.chapter8.item52.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -794,11 +845,11 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter6.item40.*" />
+          <option name="PATTERN" value="effectivejava.chapter8.item52.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item40.Bigram" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter8.item52.CollectionClassifier" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -810,11 +861,11 @@
       <module name="effectivejava_main" />
       <envs />
     </configuration>
-    <configuration name="RunExceptionTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter6.item39.**" />
+            <option name="PATTERN" value="effectivejava.chapter8.item54.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -822,11 +873,11 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter6.item39.*" />
+          <option name="PATTERN" value="effectivejava.chapter8.item54.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item39.RunExceptionTests" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter8.item54.Max" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -838,11 +889,11 @@
       <module name="effectivejava_main" />
       <envs />
     </configuration>
-    <configuration name="RunTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="chronon">
         <include>
           <pattern>
-            <option name="PATTERN" value="effectivejava.chapter6.item39.**" />
+            <option name="PATTERN" value="effectivejava.chapter8.item52.**" />
             <option name="ENABLED" value="true" />
             <option name="INCLUDE" value="true" />
           </pattern>
@@ -850,11 +901,67 @@
       </extension>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="effectivejava.chapter6.item39.*" />
+          <option name="PATTERN" value="effectivejava.chapter8.item52.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item39.RunTests" />
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter8.item52.Overriding" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="effectivejava_main" />
+      <envs />
+    </configuration>
+    <configuration name="SetList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter8.item52.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter8.item52.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter8.item52.SetList" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="effectivejava_main" />
+      <envs />
+    </configuration>
+    <configuration name="Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="effectivejava.chapter8.item53.**" />
+            <option name="ENABLED" value="true" />
+            <option name="INCLUDE" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="effectivejava.chapter8.item53.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter8.item53.Varargs" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -915,74 +1022,6 @@
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-    </configuration>
-    <configuration name="ExtendedOperationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="chronon">
-        <include>
-          <pattern>
-            <option name="PATTERN" value="effectivejava.chapter6.item38.**" />
-            <option name="ENABLED" value="true" />
-            <option name="INCLUDE" value="true" />
-          </pattern>
-        </include>
-      </extension>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.chapter6.item38.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="effectivejava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter6.item38" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item38.ExtendedOperationTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="OperationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="chronon">
-        <include>
-          <pattern>
-            <option name="PATTERN" value="effectivejava.chapter6.item34.**" />
-            <option name="ENABLED" value="true" />
-            <option name="INCLUDE" value="true" />
-          </pattern>
-        </include>
-      </extension>
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="effectivejava.chapter6.item34.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="effectivejava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="effectivejava.chapter6.item34" />
-      <option name="MAIN_CLASS_NAME" value="effectivejava.chapter6.item34.OperationTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -1047,19 +1086,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Gradle.effectivejava test" />
       <item index="1" class="java.lang.String" itemvalue="Gradle.effectivejava build" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.OperationTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ExtendedOperationTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RunTests" />
-      <item index="5" class="java.lang.String" itemvalue="Application.RunExceptionTests" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Bigram" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CollectionClassifier" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Overriding" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SetList" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Varargs" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Max" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Bigram" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RunExceptionTests" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RunTests" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ExtendedOperationTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.OperationTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Max" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Varargs" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SetList" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Overriding" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CollectionClassifier" />
       </list>
     </recent_temporary>
   </component>
@@ -1102,7 +1141,8 @@
       <workItem from="1543739648250" duration="285000" />
       <workItem from="1543959443665" duration="626000" />
       <workItem from="1544841420728" duration="2159000" />
-      <workItem from="1544861860857" duration="8969000" />
+      <workItem from="1544861860857" duration="11761000" />
+      <workItem from="1544908346900" duration="4971000" />
     </task>
     <task id="LOCAL-00001" summary="Item42: add Operation1">
       <created>1543104147753</created>
@@ -1153,7 +1193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543739823626</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updates">
+      <created>1544878151529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544878151529</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1189,10 +1236,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61764000" />
+    <option name="totallyTimeSpent" value="69527000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1203,11 +1251,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3005115" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13043478" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36123034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3662375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1239,7 +1287,8 @@
     <MESSAGE value="add Chapter2/item10, AutoValue" />
     <MESSAGE value="add Chapter2/item10; add example code for Google AutoValue" />
     <MESSAGE value="various updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="various updates" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1257,23 +1306,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter5/item33/Favorites.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/effectivejava/chapter5/item33/FavoritesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="16" column="91" lean-forward="false" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1281,9 +1317,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1291,9 +1324,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="16" column="91" lean-forward="false" selection-start-line="16" selection-start-column="91" selection-end-line="16" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1430,11 +1460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#295#296#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1442,10 +1467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#327#328#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1453,7 +1474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1461,12 +1481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="16" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#518#519#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#595#596#0" expanded="false" />
-            <element signature="e#624#625#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1474,12 +1488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#355#356#0" expanded="false" />
-            <element signature="e#391#392#0" expanded="false" />
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#461#462#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1487,12 +1495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding>
-            <element signature="e#285#286#0" expanded="false" />
-            <element signature="e#325#326#0" expanded="false" />
-            <element signature="e#363#364#0" expanded="false" />
-            <element signature="e#403#404#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1500,9 +1502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1510,9 +1509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1530,9 +1526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1540,12 +1533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#487#488#0" expanded="false" />
-            <element signature="e#523#524#0" expanded="false" />
-            <element signature="e#564#565#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1573,12 +1560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1586,7 +1567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1594,7 +1574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1603,7 +1582,7 @@
         <state relative-caret-position="350">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1616,6 +1595,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item39/RunExceptionTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
@@ -1624,14 +1610,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter6/item40/Bigram.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item50/Period.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        <state relative-caret-position="147">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/CollectionClassifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="22" column="45" lean-forward="false" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/Overriding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item52/SetList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item53/Varargs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item54/Max.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/chapter8/item56/DocExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-915">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1304#1305#0" expanded="true" />
           </folding>
         </state>
       </provider>
